@@ -6,23 +6,36 @@
     background-size: cover;
 }
 
-h1 {
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
     padding: 5px;
+    width: 100%;
 }
+
+
+
+h5 {
+    opacity: .3;
+    width: 100%;
+    overflow: hidden;
+    }
 
 .grid1 {
     background-color: rgba(206,205,203,0.8);
     width: 60%;
-    margin-top: 5%;
+    margin-top: 15%;
     font-family: 'Poppins', sans-serif;
     overflow: auto;
     margin-bottom: 10%;
     
 }
 
+
 .imgA {
     float: left;
-    margin-right: 10px;
+    margin-right: 5%;
     width: 20%;
 }
 .clearfix {
@@ -30,32 +43,41 @@ h1 {
     display: table;
   }
 
-.wrapper {
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
-    grid
-}
+
 
 .foliomargin {
-    margin-bottom: 10px;
-    text-align: center;
+    margin-bottom:10px;
+    text-align:center;
 }
 
 footer {
     position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
-
-.rowF {
-    background-color: rgba(206,205,203);
-}
-
-.icon {
-   width: 25px; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
     text-align: center;
+    padding: 10px;
 }
+
+.form-group {
+    margin: 10px;
+}
+
+.form-floating {
+    margin: 10px;
+}
+
+
+img {
+    width: 100%;
+    padding: 10px;
+}
+.icon {
+    width: 8%; 
+     text-align: center;
+ }
+
+ textarea {
+     width: 100%;
+ }
