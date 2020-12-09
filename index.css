@@ -16,14 +16,46 @@ h1 {
     margin-top: 5%;
     font-family: 'Poppins', sans-serif;
     overflow: auto;
-
+    margin-bottom: 10%;
+    
 }
 
-img {
+.imgA {
     float: left;
     margin-right: 10px;
+    width: 20%;
 }
 .clearfix {
     clear: both;
     display: table;
   }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid
+}
+
+.foliomargin {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.rowF {
+    background-color: rgba(206,205,203);
+}
+
+.icon {
+   width: 25px; 
+    text-align: center;
+}

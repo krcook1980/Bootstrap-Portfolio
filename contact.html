@@ -1,44 +1,78 @@
 <!doctype html>
 <html lang="en">
 
-    <head>
-        <title>Kelly Cook Portfolio</title>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-        <!-- Bootstrap CSS -->
-            
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-            <link rel="stylesheet" href="index.css">  
-    </head>
-    
-    <body class="bg">
-        <main>
-            <header>
-                <nav class="navbar navbar-expand-sm navbar-dark bg-info">
-                    <a class="navbar-brand" href="#">Kelly Cook</a>
-                     
-                        <ul class="navbar-nav ml-auto">
-                            <li class="nav-item active ">
-                                <a class="nav-link" href="index.html">About <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li class="nav-item active">
-                                <a class="nav-link" href="portfolio.html">Portfolio <span
-                                        class="sr-only">(current)</span></a>
-                            </li>
-                            <li class="nav-item active">
-                                <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
-                            </li>
-                        </ul>
-    
-                </nav>
+<head>
+    <title>Kelly Cook Portfolio</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body class="bg">
+    <main>
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-dark bg-info">
+                <a class="navbar-brand" href="#">Kelly Cook</a>
+
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active ">
+                        <a class="nav-link" href="index.html">About <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="portfolio.html">Portfolio <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+
+            </nav>
 
         </header>
 
-    </main>
+        <section class="grid1 mx-4 clearfix">
+            <div class="row wrapper">
+                <h1 class="mx-4">Contact Me</h1>
+            </div>
 
+            <form action="action_page.php">
+                <div class="row">
+                    <label for="fname">Name</label>
+                    <input type="text" id="name" name="Name" placeholder="Your name..">
+                </div>
+                <div class="row">
+                    <label for="fname">Email</label>
+                    <input type="text" id="email" name="Email" placeholder="Your email..">
+                </div>
+                <div class="row">
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something.."
+                        style="height:200px"></textarea>
+                </div>
+
+            </form>
+
+        </section>
+
+    </main>
+    <footer class="footer bg-info">
+        <div class="row">
+            <div class="col-sm-6">
+                Thank you!
+            </div>
+        
+        <!-- Linked In Icon-->
+            <div class="col-sm-6">
+            <a href="#"><img class="icon" src="Assets/LI-In-Bug.png"></a>
+            </div>
+        </div>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -51,6 +85,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 </body>
 
 </html>
