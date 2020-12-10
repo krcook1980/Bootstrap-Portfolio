@@ -60,14 +60,9 @@ footer {
     padding: 10px;
 }
 
-.form-group {
+.form-group .form-floating {
     margin: 10px;
 }
-
-.form-floating {
-    margin: 10px;
-}
-
 
 img {
     width: 100%;
