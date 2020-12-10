@@ -22,6 +22,6 @@ New Portfolio using Bootstrap, including about and contact.
 4 - [Stackoverflow](https://stackoverflow.com/)
 
 ## Screenshots
-[index.html](/assets/indexscreenshot.jpg)
-[portfolio.html](/assets/portfolioscreenshot.jpg)
-[contacts.html](/assets/contactscreenshot.jpg)
+[index.html](assets/indexscreenshot.jpg)
+[portfolio.html](assets/portfolioscreenshot.jpg)
+[contacts.html](assets/contactscreenshot.jpg)
