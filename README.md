@@ -22,6 +22,6 @@ ___
 - [Stackoverflow](https://stackoverflow.com/)
 ___
 ## Screenshots
-![index.html](assets/indexscreenshot.jpg)
-![portfolio.html](assets/portfolioscreenshot.jpg)
-![contacts.html](assets/contactscreenshot.jpg)
+![index.html](/assets/indexscreenshot.jpg)
+![portfolio.html](/assets/portfolioscreenshot.jpg)
+![contacts.html](/assets/contactscreenshot.jpg)
