@@ -25,4 +25,4 @@ New Portfolio using Bootstrap, including about and contact.
 ## Screenshots
 ![index.html](./assets/indexscreenshot.jpg)
 ![portfolio.html](./assets/portfolioscreenshot.jpg)
-<img src=".assets/contactscreenshot.jpg">
+<img src="./assets/contactscreenshot.jpg">
