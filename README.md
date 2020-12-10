@@ -23,6 +23,6 @@ New Portfolio using Bootstrap, including about and contact.
 - [freeformatter](https://www.freeformatter.com/html-validator.html)
 
 ## Screenshots
-![index.html](./assets/indexscreenshot.jpg)
-![portfolio.html](./assets/portfolioscreenshot.jpg)
+<img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/indexscreenshot.JPG">
+<img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/portfolioscreenshot.JPG">
 <img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/contactscreenshot.JPG">
