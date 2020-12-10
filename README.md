@@ -5,7 +5,7 @@ New Portfolio using Bootstrap, including about and contact.
 - Pages and images are responsive.
 - All nav bar links function properly.
 - Symantic HTML code used.
-- Validation service used [freeformatter](https://www.freeformatter.com/html-validator.html)
+- Used a validation service
 - Commited progress when items were completed.
 ___
 ## HTML
@@ -20,8 +20,9 @@ ___
 - [Google Fonts](https://fonts.google.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Stackoverflow](https://stackoverflow.com/)
+- [freeformatter](https://www.freeformatter.com/html-validator.html)
 ___
 ## Screenshots
-![index.html](//assets/indexscreenshot.jpg)
-![portfolio.html](//assets/portfolioscreenshot.jpg)
-![contacts.html](//assets/contactscreenshot.jpg)
+![index.html](/assets/indexscreenshot.jpg)
+![portfolio.html](/assets/portfolioscreenshot.jpg)
+![contacts.html](assets/contactscreenshot.jpg)
