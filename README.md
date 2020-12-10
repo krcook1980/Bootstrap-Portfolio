@@ -16,7 +16,7 @@ New Portfolio using Bootstrap, including about and contact.
 - Used css to alter basic attributes, but utilized Bootstrap functions where ever possible.
 
 ## Resources
-- [Bootstrap]](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Stackoverflow](https://stackoverflow.com/)
