@@ -16,12 +16,12 @@ ___
 1 - Used css to alter basic attributes, but utilized Bootstrap functions where ever possible.
 ___
 ## Resources
-- [Bootstrap]](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 ___
 ## Screenshots
-![index.html](/assets/indexscreenshot.jpg)
-![portfolio.html](/assets/portfolioscreenshot.jpg)
-![contacts.html](/assets/contactscreenshot.jpg)
+![index.html](//assets/indexscreenshot.jpg)
+![portfolio.html](//assets/portfolioscreenshot.jpg)
+![contacts.html](//assets/contactscreenshot.jpg)
