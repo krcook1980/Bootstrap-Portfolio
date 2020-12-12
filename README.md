@@ -16,13 +16,13 @@ New Portfolio using Bootstrap, including about and contact.
 - Used css to alter basic attributes, but utilized Bootstrap functions where ever possible.
 
 ## Resources
-- [Bootstrap]](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [freeformatter](https://www.freeformatter.com/html-validator.html)
 
 ## Screenshots
-![index.html](./assets/indexscreenshot.jpg)
-![portfolio.html](./assets/portfolioscreenshot.jpg)
-![contacts.html](./assets/contactscreenshot.jpg)
+<img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/indexscreenshot.JPG">
+<img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/portfolioscreenshot.JPG">
+<img src="https://github.com/krcook1980/Bootstrap-Portfolio/blob/main/Assets/contactscreenshot.JPG">
